@@ -57,7 +57,7 @@ function showStats(data) {
 
 // function for getting release stats
 function getStats() {
-    var url = "https://api.github.com/repos/ibm-messaging/mq-mft-file-ordering/releases";
+    var url = "https://api.github.com/repos/sparsons-net/mq-appliance-rest-nic-monitor/releases";
     $.getJSON(url, showStats).fail(showStats);
 }
 
