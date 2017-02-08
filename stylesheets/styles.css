@@ -212,10 +212,10 @@ td {
 }
 
 
-/* Header */
+/* Header background-color: #171717; */
 
 header {
-	background-color: #171717;
+	background-color: #E3DEA7;
 	color: #FDFDFB;
   width:170px;
   float:left;
